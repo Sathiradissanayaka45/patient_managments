@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IT21827662</string>
+    <string name="login">Login</string>
+    <string name="loginemail">Enter email here</string>
+    <string name="username">Enter name here</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="backtologin">Back To Login</string>
+    <string name="selectgender">Select the Gender</string>
+    <string-array name="gender">
+        <item></item>
+        <item>Male</item>
+        <item>Femail</item>
+        <item>Unspecified</item>
+    </string-array>
+
+    <string name="selectDistrict">Select the Select</string>
+    <string name="patient_age">Enter Patient Age</string>
+    <string name="patient_Name">Enter Patient Name</string>
+    <string name="gender">Select Gender</string>
+    <string name="doctor">Select The Doctor\n</string>
+    <string name="Button">Button</string>
+    <string name="patient_list">Patient List</string>
+    <string-array name="doctor">
+        <item></item>
+        <item>Dr.Sathira</item>
+        <item>Dr.Chathuni</item>
+        <item>Dr.Sathish</item>
+        <item>Dr.Chathura</item>
+        <item>Dr.Indrachapa</item>
+        <item>Dr.Dilshan</item>
+        <item>Dr.Lahiru</item>
+    </string-array>
+
+</resources>
